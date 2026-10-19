@@ -6,6 +6,8 @@ You can play with any computer! You just need a keyboard! You use WASD or Arrow 
 
 [Demo](https://chroma813.itch.io/orpheus-platformer)
 
+---
+
 This game is also Open Source! Simply download the source code and make changes!
 
 This project is licensed under the [WTFPL](https://www.wtfpl.net/) license.
